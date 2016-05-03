@@ -4,7 +4,7 @@ A project based learning activity for people who are getting started with Git an
 
 You can play the game at: http://githubschool.github.io/github-games/
 
-Here is how you play the game:
+Here is how you play the games:
 1. Press the space bar to get started.
 2. Press the up arrow to rotate the shape.
 3. The goal is to create complete rows with no empty spaces.
